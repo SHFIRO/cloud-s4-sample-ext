@@ -1,7 +1,7 @@
 # S/4HANA Cloud extensions - Product ordering sample app
 This sample web application showcases an extension to an SAP S/4HANA Cloud system. It lists products (from the material master) for external users and allows to order them (i.e. a sales order is created in S/4HANA Cloud).
 
-> **NOTE:** This sample app is based on and explained in detail in the [1RW set-up instructions guide](https://rapid.sap.com/bp/#/browse/scopeitems/1RW). There, you will find more details on the end to end steps of the ordering scenario example, e.g.:
+> **NOTE:** This sample app is based on and explained in detail in the [set-up instructions guide](https://help.sap.com/viewer/4316f97a90ff48948fb7f212ecabf964/SHIP/en-US). There, you will find more details on the end to end steps of the ordering scenario example, e.g.:
 > * Creation of a custom business object in SAP S/4HANA Cloud
 > * Connection setup of the SAP S/4HANA Cloud system and SAP Cloud Platform (via a communication arrangement)
 > * Adaption and deployment of the sample app
@@ -13,7 +13,7 @@ Requirements
 -------------
 1. We assume that you have access to an SAP S/4HANA Cloud system and an SAP Cloud Platform account
 2. Install [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/index.html), [Maven](http://maven.apache.org/download.cgi) and [Git](https://git-scm.com/downloads).
-3. Prepare your S/4HANA Cloud system according to the [1RW set-up instructions guide](https://rapid.sap.com/bp/#/browse/scopeitems/1RW).
+3. Prepare your S/4HANA Cloud system according to the [set-up instructions guide](https://help.sap.com/viewer/4316f97a90ff48948fb7f212ecabf964/SHIP/en-US).
 **Note:** to access the guide you need to have [an account for SAP Service Marketplace](https://websmp103.sap-ag.de/~sapidp/012002523100007691892016E/)
 
 Download the sample app
@@ -103,7 +103,7 @@ Troubleshooting
 
 How to obtain support
 ---------------------
-File a message in the [SAP Support Launchpad](https://launchpad.support.sap.com/#/incident/create) under component `CA-GTF-FND-EXT`
+In case of issues, please create a GitHub issue.
 
 
 ### Copyright and License
